@@ -82,7 +82,7 @@
                             <button hidden="YES" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9jp-jn-YYH">
                                 <rect key="frame" x="305" y="275" width="46" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
-                                <state key="normal" title="REVIVE THIS MOTHERFUCKER"/>
+                                <state key="normal" title="REVIVE"/>
                                 <connections>
                                     <action selector="restart:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PV7-F9-Hc4"/>
                                 </connections>
