@@ -4,3 +4,4 @@ Game where you have to periodically feed a monster with food or love. If one mis
 
 ### Game Screen
 <img src = "https://i.gyazo.com/03d4e140f463b6ec43e6b69b167b466b.gif"/>
+Animation + Skulls appear when a certain amount of seconds have passed
